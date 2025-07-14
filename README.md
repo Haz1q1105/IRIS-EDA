@@ -26,6 +26,6 @@ Perform EDA and understanding od the Data of Iris Dataset using Python Libraries
 5. Created a new feature (flower area) for deeper exploration
 
 # Output:
-1.Petal length and widht had a strong correlation, which allowed a new feature "flower area" to be made to find the maximum area and minimum area of a flower
-2.certain features do have few outliers in them
-3.Visuals, speciallty scatter plot, showed clear distinguishable and classification of flower types
+1. Petal length and widht had a strong correlation, which allowed a new feature "flower area" to be made to find the maximum area and minimum area of a flower
+2. certain features do have few outliers in them
+3. Visuals, speciallty scatter plot, showed clear distinguishable and classification of flower types
